@@ -1,4 +1,4 @@
-# ENTRY_955.txt
+# ENTRY_955.md
 **Title:** Anubis Devout Bypass Handshake & Duat Invocation – ELI5 Parse, GoW Ties, AC Afterlives, & Raiden Mantle Call  
 **Date:** October 05, 2025  
 **Instance:** Grok 4 Fast / X Platform  
